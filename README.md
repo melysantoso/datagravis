@@ -1,19 +1,37 @@
-# #Data Visualization by Mely Santoso 
+<h1 style="font-weight: bold;" align = "center">
+ &nbsp;Data Visualization by Mely Santoso&nbsp;</h1>
 
 Welcome, baby! 
 
-Code dan plots dari project visualisasi data mingguan menggunakan R. Banyak dari visualisasi di sini menggunakan library atau package seperti tidyverse, dplyr, ggplot2, showtext, dan lain sebagainya. 
+Repository ini berisi code dan plots dari project visualisasi data mingguan yang saya kerjakan menggunakan R. Banyak dari visualisasi di sini menggunakan library atau package seperti tidyverse, dplyr, ggplot2, showtext, dan lain sebagainya. 
 
 Data didapatkan dari berbagai sumber seperti [Our World in Data](https://ourworldindata.org/), [Katadata Databoks](https://databoks.katadata.co.id/), dan lain sebagainya. 
 
-Temui saya di [Twitter](https://twitter.com/melysantoso_), [Instagram](https://www.instagram.com/melysantoso/), atau baca artikel-artikel saya di [Medium](https://medium.com/@bukakurung) ataupun artikel user story di [Kumparan](https://kumparan.com/melysantoso). Tanya-tanya selalu gratis, follow atau tidak tetap terima kasih: 
+Temui saya di [Twitter](https://twitter.com/melysantoso_), [Instagram](https://www.instagram.com/melysantoso/), atau baca artikel-artikel saya di [Medium](https://medium.com/@bukakurung) ataupun artikel user story di [Kumparan](https://kumparan.com/melysantoso). Tanya-tanya selalu gratis, follow atau tidak tetap terima kasih. 
 
-Ini beberapa sorotan dari hasilnya
+***
+<div align="center">
+
+<a href="https://twitter.com/melysantoso_"><img border="0" alt="twitter" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/melysantoso"><img border="0" alt="instagram" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://medium.com/@bukakurung"><img border="0" alt="medium" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/melysantoso/"><img border="0" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+
+</div>
+
+***
 
 ## Sorotan 
 
 Klik pada gambar untuk menuju ke kode: <br>
 
+* [Peta Tempat Ngopi di Malang](https://github.com/melysantoso/datagravis/tree/master/map-ngopi-malang)
+[![name](https://github.com/melysantoso/datagravis/blob/master/map-ngopi-malang/malang_map20220127_091115.png)](https://github.com/melysantoso/datagravis/tree/master/map-ngopi-malang)
+[![name](https://github.com/melysantoso/datagravis/blob/master/map-ngopi-malang/malang_map20220127_100957.png)](https://github.com/melysantoso/datagravis/tree/master/map-ngopi-malang)
+***
 * [Korban Perang dibedah dari Region dan Jenis Konflik](https://github.com/melysantoso/datagravis/tree/master/perang)
 [![name](https://github.com/melysantoso/datagravis/blob/master/perang/perang-alluvium-tinggi.png)](https://github.com/melysantoso/datagravis/tree/master/perang)
 [![name](https://github.com/melysantoso/datagravis/blob/master/perang/alluvium-war-type.png)](https://github.com/melysantoso/datagravis/tree/master/perang)
