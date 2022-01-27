@@ -26,27 +26,29 @@ Temui saya di [Twitter](https://twitter.com/melysantoso_), [Instagram](https://w
 
 Klik pada gambar untuk menuju ke kode: <br>
 
-* [Peta Tempat Ngopi di Malang](https://github.com/melysantoso/datagravis/tree/master/map-ngopi-malang)
+***
+
+### [Peta Tempat Ngopi di Malang](https://github.com/melysantoso/datagravis/tree/master/map-ngopi-malang)
 [![name](https://github.com/melysantoso/datagravis/blob/master/map-ngopi-malang/malang_map20220127_091115.png)](https://github.com/melysantoso/datagravis/tree/master/map-ngopi-malang)
 [![name](https://github.com/melysantoso/datagravis/blob/master/map-ngopi-malang/malang_map20220127_100957.png)](https://github.com/melysantoso/datagravis/tree/master/map-ngopi-malang)
 ***
-* [Korban Perang dibedah dari Region dan Jenis Konflik](https://github.com/melysantoso/datagravis/tree/master/perang)
+### [Korban Perang dibedah dari Region dan Jenis Konflik](https://github.com/melysantoso/datagravis/tree/master/perang)
 [![name](https://github.com/melysantoso/datagravis/blob/master/perang/perang-alluvium-tinggi.png)](https://github.com/melysantoso/datagravis/tree/master/perang)
 [![name](https://github.com/melysantoso/datagravis/blob/master/perang/alluvium-war-type.png)](https://github.com/melysantoso/datagravis/tree/master/perang)
 ***
-* [Debat Kandidat Partai Demokrat U.S 2019](https://github.com/melysantoso/datagravis/tree/master/debat-democrat19) 
+### [Debat Kandidat Partai Demokrat U.S 2019](https://github.com/melysantoso/datagravis/tree/master/debat-democrat19) 
 [![name](https://github.com/melysantoso/datagravis/blob/master/debat-democrat19/debat-demokrat-2019.png)](https://github.com/melysantoso/datagravis/tree/master/debat-democrat19)
 ***
-* [Regime Politik Dunia](https://github.com/melysantoso/datagravis/tree/master/world-regime)
+### [Regime Politik Dunia](https://github.com/melysantoso/datagravis/tree/master/world-regime)
 [![name](https://github.com/melysantoso/datagravis/blob/master/world-regime/percentage-regime-stack.png)](https://github.com/melysantoso/datagravis/tree/master/world-regime)
 [![name](https://github.com/melysantoso/datagravis/blob/master/world-regime/area-stack-regime.png)](https://github.com/melysantoso/datagravis/tree/master/world-regime)
 ***
-* [Larangan Iklan Rokok](https://github.com/melysantoso/datagravis/tree/master/mapsmoke)
+### [Larangan Iklan Rokok](https://github.com/melysantoso/datagravis/tree/master/mapsmoke)
 [![name](https://github.com/melysantoso/datagravis/blob/master/mapsmoke/map-iklan-rokok.png)](https://github.com/melysantoso/datagravis/tree/master/mapsmoke)
 ***
-* [Proporsi Anak Putus Sekolah di Indonesia Berdasar Tingkatan](https://github.com/melysantoso/datagravis/tree/master/putus-sekolah)
+### [Proporsi Anak Putus Sekolah di Indonesia Berdasar Tingkatan](https://github.com/melysantoso/datagravis/tree/master/putus-sekolah)
 [![name](https://github.com/melysantoso/datagravis/blob/master/putus-sekolah/putus-sekolah-id.png)](https://github.com/melysantoso/datagravis/tree/master/putus-sekolah)
 ***
-* [Alasan Belum Vaksin](https://github.com/melysantoso/datagravis/tree/master/belum%20vaksin)
+### [Alasan Belum Vaksin](https://github.com/melysantoso/datagravis/tree/master/belum%20vaksin)
 [![name](https://github.com/melysantoso/datagravis/blob/master/belum%20vaksin/alasan-belum-vaksin.png)](https://github.com/melysantoso/datagravis/tree/master/belum%20vaksin) 
 ***
