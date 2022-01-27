@@ -12,13 +12,11 @@ Temui saya di [Twitter](https://twitter.com/melysantoso_), [Instagram](https://w
 ***
 <div align="center">
 
-<a href="https://twitter.com/melysantoso_"><img border="0" alt="twitter" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/melysantoso"><img border="0" alt="instagram" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://medium.com/@bukakurung"><img border="0" alt="medium" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/melysantoso/"><img border="0" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/melysantoso_"><img border="0" alt="twitter" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/Twitter_black.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/melysantoso"><img border="0" alt="instagram" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/Instagram_black.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@bukakurung"><img border="0" alt="medium" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/Medium_black.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/melysantoso/"><img border="0" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/Facebook_black.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
 
 </div>
 
