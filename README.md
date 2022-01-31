@@ -33,7 +33,7 @@ Klik pada gambar untuk menuju ke kode: <br>
 [![name](https://github.com/melysantoso/datagravis/blob/master/map-ngopi-malang/malang_map20220127_100957.png)](https://github.com/melysantoso/datagravis/tree/master/map-ngopi-malang)
 ***
 ### [Choropleth Map Konsumsi Daging Global 2013](https://github.com/melysantoso/datagravis/tree/master/daging-2013)
-[![name]](https://github.com/melysantoso/datagravis/blob/master/daging-2013/2013-konsumsi-daging.jpg)
+[![name](https://github.com/melysantoso/datagravis/blob/master/daging-2013/2013-konsumsi-daging.jpg)](https://github.com/melysantoso/datagravis/tree/master/daging-2013)
 ***
 ### [Korban Perang dibedah dari Region dan Jenis Konflik](https://github.com/melysantoso/datagravis/tree/master/perang)
 [![name](https://github.com/melysantoso/datagravis/blob/master/perang/perang-alluvium-tinggi.png)](https://github.com/melysantoso/datagravis/tree/master/perang)
