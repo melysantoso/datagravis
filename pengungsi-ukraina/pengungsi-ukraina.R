@@ -112,8 +112,8 @@ ggplot(world_map, aes(long, lat, group=group))+
             ylim=c(43,55))+
   # tambah judul, subjudul, dan caption 
   labs(title="LEBIH DARI SATU JUTA PENDUDUK TELAH MENINGGALKAN UKRAINA",
-       subtitle="Jumlah pengungsi Ukraina di negara tetangga. <br>Grafik tidak termasuk 110 ribu pengungsi di negara-negara Eropa lainnya.",
-       caption="Data dari UNHCR 4/3/2022  (Data Pengungsi ke Russia dan Moldova 3/3/2022 - Data diambil pada 5/3/2022 9:15 PM WIB) <br> Chart Mely Santoso")+
+       subtitle="Jumlah pengungsi Ukraina di negara tetangga. <br>Grafik tidak termasuk 133 ribu pengungsi di negara-negara Eropa lainnya.",
+       caption="Data dari UNHCR 4/3/2022 (Data Pengungsi ke Russia dan Moldova 3/3/2022 - Data diambil pada 5/3/2022 9:15 PM WIB) <br> Chart Mely Santoso")+
   theme_void()+
   theme(text=element_text(family="Gill Sans"),
         plot.title=element_text(size=18, family="mrwt", face = "bold", hjust = 0.5),
