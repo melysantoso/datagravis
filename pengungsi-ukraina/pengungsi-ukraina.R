@@ -1,8 +1,13 @@
+
+# Load packages  ----------------------------------------------------------
+
+
 library(maps)
 library(tidyverse)
 library(showtext)
 library(mapproj)
 library(ggtext)
+library(patchwork)
 
 # tambah font menggunakan showtext()
 
@@ -11,8 +16,18 @@ font_add_google("Roboto", "rbt")
 showtext.auto()
 showtext.opts(dpi = 320)
 
+
+
+# Get and tidy the data ---------------------------------------------------
+
+
 # load map data dunia menggunakan library maps()
 world_map <- map_data("world")
+
+# data for time series analysis - line chart
+# data dari UNHCR -diakses pada 5/3/2020
+df_times <- read.csv("~/ukraine-refugee/refugee-time.csv") %>% 
+  mutate(date = as.Date(data_date, format = "%m/%d/%Y")) 
 
 # buat tibble untuk countries dan refugees 
 countries <- c("Ukraine", "Poland", "Hungary", "Moldova", "Slovakia", "Romania", "Russia", "Belarus")
@@ -67,6 +82,10 @@ ukr_cities <- world.cities %>%
   head(5)
 
 
+
+# Plot the data  ----------------------------------------------------------
+
+
 # plot data 
 ggplot(world_map, aes(long, lat, group=group))+
   geom_polygon(aes(fill=fill), color="black", size=0.3)+
@@ -110,18 +129,79 @@ ggplot(world_map, aes(long, lat, group=group))+
   # setting untuk memunculkan seberapa luas peta akan ditampilkan 
   coord_map(xlim=c(14,40),
             ylim=c(43,55))+
-  # tambah judul, subjudul, dan caption 
-  labs(title="LEBIH DARI SATU JUTA PENDUDUK TELAH MENINGGALKAN UKRAINA",
-       subtitle="Jumlah pengungsi Ukraina di negara tetangga. <br>Grafik tidak termasuk 133 ribu pengungsi di negara-negara Eropa lainnya.",
-       caption="Data dari UNHCR 4/3/2022 (Data Pengungsi ke Russia dan Moldova 3/3/2022 - Data diambil pada 5/3/2022 9:15 PM WIB) <br> Chart Mely Santoso")+
-  theme_void()+
+  # tambah judul, subjudul, dan caption - uncoment labs() pertama jika hanya ingin membuat map 
+  # uncoment labs() kedua jika ingin membuat gabungan chart 
+  #labs(title="LEBIH DARI SATU JUTA PENDUDUK TELAH MENINGGALKAN UKRAINA",
+  #     subtitle="Jumlah pengungsi Ukraina di negara tetangga. <br>Grafik tidak termasuk 133 ribu pengungsi di negara-negara Eropa lainnya.",
+  #     caption="Data dari UNHCR 4/3/2022 (Data Pengungsi ke Russia dan Moldova 3/3/2022 - Data diambil pada 5/3/2022 9:15 PM WIB) <br> Chart Mely Santoso")+
+  labs(title = "<span style='color:#fc4503'>&gt;</span>Sebaran pengungsi dari Ukraina ke negara tetangga",
+       subtitle = "Data tidak termasuk 133 ribu pengungsi ke negara Eropa lainnya") +
+  theme_void() + 
   theme(text=element_text(family="Gill Sans"),
-        plot.title=element_text(size=18, family="mrwt", face = "bold", hjust = 0.5),
-        plot.subtitle=element_markdown(size=16, family = "mrwt", hjust = 0.5),
-        plot.caption=element_markdown(size=12, family = "rbt", hjust = 0)
+        plot.title=element_markdown(size=12, family="rbt", margin = margin(t=12, b = 5)),
+        plot.subtitle=element_markdown(size=10, family = "rbt", margin = margin(b=5)),
+        plot.caption=element_markdown(size=10, family = "rbt", hjust = 0)
   )
 
-ggsave("pengungsi-ukraina-4.png", height=10, width=12)
+
+# plot line chart 
+
+line_ukr <- df_times %>% ggplot(aes(x = date, y = individuals)) +
+  geom_line(colour = "#aa1974", size = 2) +
+  geom_point(shape=21, color="#086878" , fill="#086878", size=6) +
+  scale_y_continuous(limits = c(50000, 250000),
+                     breaks = seq(50000, 200000, 50000), 
+                     labels = c("50K", "100K", "150K", "200K")) +
+  labs(title = "<span style='color:#fc4503'>&gt;</span>Time Series") +
+  theme(plot.title = element_markdown(family = "rbt", size = 12),
+        axis.title = element_blank(),
+        axis.text = element_text(size = 8, family = "rbt"),
+        plot.background = element_rect(fill = "white"),
+        axis.ticks = element_blank(),
+        panel.background = element_blank(), 
+        panel.grid.major = element_blank(),
+        panel.grid.major.x = element_blank(),
+        panel.grid.major.y = element_blank(),
+        panel.grid.minor.x = element_blank(),
+        panel.grid.minor.y = element_blank())
+
+line_ukr
+
+
+
+# Join plots in one layout and add title  ---------------------------------
+
+
+layout <- c(
+  area(t = 1, l = 1, b = 2, r = 12
+  ),
+  area(t = 3, l = 1, b = 8, r = 12
+  ))
+
+#plot(layout)
+
+line_ukr + map_ukr +
+  plot_layout(design = layout) + 
+  plot_annotation(title = 'Lebih dari 1juta orang telah meninggalkan Ukraina',
+                  subtitle = "Pengungsi yang datang dari Ukraina ke negara Eropa tetangga <br> 24 Feb - 4 Mar 2022",
+                  caption = "Data dari UNHCR 4/3/2022 (Data Pengungsi ke Russia dan Moldova 3/3/2022 - Data diambil pada 5/3/2022 9:15 PM WIB) <br> Chart Mely Santoso)",
+                  theme = theme(panel.background = element_rect(fill = "white"),
+                                plot.background = element_rect(fill = "white", colour = "white"),
+                                plot.title = element_text(size = 22,
+                                                          colour = "#f21000", family = "mrwt",
+                                                          face = "bold"),
+                                plot.subtitle = element_markdown(family = "mrwt", size = 12, 
+                                                                 colour = "black",
+                                                                 lineheight = 1.5),
+                                plot.caption = element_markdown(family = "rbt", size = 10,
+                                                                colour = "black", hjust = 0)))
+
+
+
+ggsave(paste0("ukrain_refugees_", format(Sys.time(), "%d%m%Y-%H-%M"), ".png"),
+       dpi = 320,
+       width = 8,
+       height = 9)
 
 
 # sumber data : https://data2.unhcr.org/en/situations/ukraine
