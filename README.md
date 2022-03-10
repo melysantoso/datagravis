@@ -27,13 +27,14 @@ Temui saya di [Twitter](https://twitter.com/melysantoso_), [Instagram](https://w
 Klik pada gambar untuk menuju ke kode: <br>
 
 ***
-
+### [Peta Pengungsi dari Ukraina](https://github.com/melysantoso/datagravis/tree/master/pengungsi-ukraina)
+[![name](https://github.com/melysantoso/datagravis/blob/master/pengungsi-ukraina/ukrain_refugees_06032022-10-32.png)]
+***
 ### [Produksi Seafood Dunia - 2017](https://github.com/melysantoso/datagravis/tree/master/fish-overfishing)
 [![name](https://github.com/melysantoso/datagravis/blob/master/fish-overfishing/bar-chart-10.png)](https://github.com/melysantoso/datagravis/tree/master/fish-overfishing)
 ***
 ### [Peta Tempat Ngopi di Malang](https://github.com/melysantoso/datagravis/tree/master/map-ngopi-malang)
 [![name](https://github.com/melysantoso/datagravis/blob/master/map-ngopi-malang/malang_map20220127_091115.png)](https://github.com/melysantoso/datagravis/tree/master/map-ngopi-malang)
-[![name](https://github.com/melysantoso/datagravis/blob/master/map-ngopi-malang/malang_map20220127_100957.png)](https://github.com/melysantoso/datagravis/tree/master/map-ngopi-malang)
 ***
 ### [Choropleth Map Konsumsi Daging Global 2013](https://github.com/melysantoso/datagravis/tree/master/daging-2013)
 [![name](https://github.com/melysantoso/datagravis/blob/master/daging-2013/2013-konsumsi-daging.jpg)](https://github.com/melysantoso/datagravis/tree/master/daging-2013)
