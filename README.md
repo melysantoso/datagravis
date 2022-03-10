@@ -28,7 +28,7 @@ Klik pada gambar untuk menuju ke kode: <br>
 
 ***
 ### [Peta Pengungsi dari Ukraina](https://github.com/melysantoso/datagravis/tree/master/pengungsi-ukraina)
-[![name](https://github.com/melysantoso/datagravis/blob/master/pengungsi-ukraina/ukrain_refugees_06032022-10-32.png)]
+[![name](https://github.com/melysantoso/datagravis/blob/master/pengungsi-ukraina/ukrain_refugees_06032022-10-32.png)](https://github.com/melysantoso/datagravis/tree/master/pengungsi-ukraina)
 ***
 ### [Produksi Seafood Dunia - 2017](https://github.com/melysantoso/datagravis/tree/master/fish-overfishing)
 [![name](https://github.com/melysantoso/datagravis/blob/master/fish-overfishing/bar-chart-10.png)](https://github.com/melysantoso/datagravis/tree/master/fish-overfishing)
