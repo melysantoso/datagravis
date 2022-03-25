@@ -1,6 +1,9 @@
 <h1 style="font-weight: bold;" align = "center">
  &nbsp;Hallo&nbsp;</h1>
 
+
+ *Versi Interaktif Klik [Di Sini](https://chart-studio.plotly.com/~melysantoso/1)*
+
 Chart ini merupakan bentuk adaptasi dari visualisasi yang dibuat oleh tim media Kata Data di laman [Katadata]( https://katadata.co.id/analisisdata/2020/04/03/rapuhnya-indonesia-menghadapi-covid-19). Visualisasi ini menjelaskan tentang dua variabel, yaitu indeks kerentanan provinsi terhadap COVID-19 dan nilai kondisi fasilitas kesehatan provinsi dalam menangani COVID-19.
 
 Variabel pada axis x merupakan indeks kerentanan provinsi merupakan sebuah indeks yang disusun oleh tim Katadata Insight Center (KIC) pada 3 April lalu. Indeks kerentanan provinsi ini diukur menggunakan tiga indikator resiko yang meliputi; Pertama, risiko terkait dengan karakteristik daerah seperti jumlah penduduk, kepadatan, hingga akses terhadap hunian yang layak. Kedua, risiko Kesehatan Penduduk seperti jumlah penduduk lanjut usia, hingga persentase penduduk yang merokok. Ketiga, risiko terkait mobilitas penduduk seperti jumlah penumpang pesawat dan mobilitas pekerja.
