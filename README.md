@@ -30,6 +30,9 @@ Klik pada gambar untuk menuju ke kode: <br>
 ### [Hidden Links Between Mental Disorder](https://github.com/melysantoso/datagravis/tree/master/hidden-link-mental-disorder)
 [![name](https://github.com/melysantoso/datagravis/blob/master/hidden-link-mental-disorder/hidden-link-mentdis1.png)](https://github.com/melysantoso/datagravis/tree/master/hidden-link-mental-disorder)
 ***
+### [Persentase Wirausahawan Muda](https://github.com/melysantoso/datagravis/tree/master/pewirausaha-muda)
+[![name](https://github.com/melysantoso/datagravis/blob/master/pewirausaha-muda/self-employed-young.png)](https://github.com/melysantoso/datagravis/tree/master/pewirausaha-muda)
+***
 ### [Peta Pengungsi dari Ukraina](https://github.com/melysantoso/datagravis/tree/master/pengungsi-ukraina)
 [![name](https://github.com/melysantoso/datagravis/blob/master/pengungsi-ukraina/ukrain_refugees_06032022-10-32.png)](https://github.com/melysantoso/datagravis/tree/master/pengungsi-ukraina)
 ***
