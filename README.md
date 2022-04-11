@@ -30,6 +30,9 @@ Klik pada gambar untuk menuju ke kode: <br>
 ### [Konsumsi Protein Hewani](https://github.com/melysantoso/datagravis/tree/master/animal-protein-consumption)
 [![name](https://github.com/melysantoso/datagravis/blob/master/animal-protein-consumption/animal-protein-1.png)](https://github.com/melysantoso/datagravis/tree/master/animal-protein-consumption)
 ***
+### [Digital Publication](https://github.com/melysantoso/datagravis/tree/master/news-orgs)
+[![name](https://github.com/melysantoso/datagravis/blob/master/news-orgs/news.png)](https://github.com/melysantoso/datagravis/tree/master/news-orgs)
+***
 ### [Hidden Links Between Mental Disorder](https://github.com/melysantoso/datagravis/tree/master/hidden-link-mental-disorder)
 [![name](https://github.com/melysantoso/datagravis/blob/master/hidden-link-mental-disorder/hidden-link-mentdis1.png)](https://github.com/melysantoso/datagravis/tree/master/hidden-link-mental-disorder)
 ***
