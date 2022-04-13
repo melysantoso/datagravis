@@ -39,6 +39,9 @@ Klik pada gambar untuk menuju ke kode: <br>
 ### [Hidden Links Between Mental Disorder](https://github.com/melysantoso/datagravis/tree/master/hidden-link-mental-disorder)
 [![name](https://github.com/melysantoso/datagravis/blob/master/hidden-link-mental-disorder/hidden-link-mentdis1.png)](https://github.com/melysantoso/datagravis/tree/master/hidden-link-mental-disorder)
 ***
+### [Freedom in The World](https://github.com/melysantoso/datagravis/tree/master/freedom)
+[![name](https://github.com/melysantoso/datagravis/blob/master/freedom/freedom-5.png)](https://github.com/melysantoso/datagravis/tree/master/freedom)
+***
 ### [Persentase Wirausahawan Muda](https://github.com/melysantoso/datagravis/tree/master/wirausahawan-muda)
 [![name](https://github.com/melysantoso/datagravis/blob/master/wirausahawan-muda/self-employed-young.png)](https://github.com/melysantoso/datagravis/tree/master/wirausahawan-muda)
 ***
