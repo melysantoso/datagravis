@@ -57,9 +57,9 @@ Klik pada gambar untuk menuju ke kode: <br>
 ### [Choropleth Map Konsumsi Daging Global 2013](https://github.com/melysantoso/datagravis/tree/master/daging-2013)
 [![name](https://github.com/melysantoso/datagravis/blob/master/daging-2013/2013-konsumsi-daging.jpg)](https://github.com/melysantoso/datagravis/tree/master/daging-2013)
 ***
-### [Korban Perang dibedah dari Region dan Jenis Konflik](https://github.com/melysantoso/datagravis/tree/master/perang)
-[![name](https://github.com/melysantoso/datagravis/blob/master/perang/perang-alluvium-tinggi.png)](https://github.com/melysantoso/datagravis/tree/master/perang)
-[![name](https://github.com/melysantoso/datagravis/blob/master/perang/alluvium-war-type.png)](https://github.com/melysantoso/datagravis/tree/master/perang)
+### [Korban Perang dibedah dari Region dan Jenis Konflik](https://github.com/melysantoso/datagravis/tree/master/korban-perang)
+[![name](https://github.com/melysantoso/datagravis/blob/master/korban-perang/long-bar-war.png)](https://github.com/melysantoso/datagravis/tree/master/korban-perang)
+[![name](https://github.com/melysantoso/datagravis/blob/master/korban-perang/alluvium-war-type.png)](https://github.com/melysantoso/datagravis/tree/master/korban-perang)
 ***
 ### [Debat Kandidat Partai Demokrat U.S 2019](https://github.com/melysantoso/datagravis/tree/master/debat-democrat19) 
 [![name](https://github.com/melysantoso/datagravis/blob/master/debat-democrat19/debat-demokrat-2019.png)](https://github.com/melysantoso/datagravis/tree/master/debat-democrat19)
