@@ -42,6 +42,9 @@ Klik pada gambar untuk menuju ke kode: <br>
 ### [Hidden Links Between Mental Disorder](https://github.com/melysantoso/datagravis/tree/master/hidden-link-mental-disorder)
 [![name](https://github.com/melysantoso/datagravis/blob/master/hidden-link-mental-disorder/hidden-link-mentdis1.png)](https://github.com/melysantoso/datagravis/tree/master/hidden-link-mental-disorder)
 ***
+### [Alasan Masyarakat Indonesia Masih Pakai Masker](https://github.com/melysantoso/datagravis/tree/master/alasan-masih-pakai-masker)
+[![name](https://github.com/melysantoso/datagravis/blob/master/alasan-masih-pakai-masker/alasan_masker_1.png)](https://github.com/melysantoso/datagravis/tree/master/alasan-masih-pakai-masker)
+***
 ### [Freedom in The World](https://github.com/melysantoso/datagravis/tree/master/freedom)
 [![name](https://github.com/melysantoso/datagravis/blob/master/freedom/freedom-5.png)](https://github.com/melysantoso/datagravis/tree/master/freedom)
 ***
