@@ -1,0 +1,25 @@
+company_type ,work,value
+Swasta Nasional,WFO,75
+Swasta Nasional,WFH,24
+Swasta Nasional,HYBRID,21
+Swasta Nasional,WFA,13
+Swasta Lokal,WFO,54
+Swasta Lokal,WFH,30
+Swasta Lokal,HYBRID,20
+Swasta Lokal,WFA,14
+Startup,WFO,49
+Startup,WFH,42
+Startup,HYBRID,34
+Startup,WFA,25
+Multinasional,WFO,53
+Multinasional,WFH,40
+Multinasional,HYBRID,37
+Multinasional,WFA,22
+Pemerintahan,WFO,71
+Pemerintahan,WFH,33
+Pemerintahan,HYBRID,31
+Pemerintahan,WFA,21
+Milik Negara,WFO,76
+Milik Negara,WFH,36
+Milik Negara,HYBRID,32
+Milik Negara,WFA,28
