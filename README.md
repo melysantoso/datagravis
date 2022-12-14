@@ -27,6 +27,9 @@ Temui saya di [Twitter](https://twitter.com/melysantoso_), [Instagram](https://w
 Klik pada gambar untuk menuju ke kode: <br>
 
 ***
+### [Global Terrorism Index](https://github.com/melysantoso/datagravis/tree/master/global-terrorism-index)
+[![name](https://github.com/melysantoso/datagravis/blob/master/global-terrorism-index/asica-pcific-gti%20(1).jpg)](https://github.com/melysantoso/datagravis/tree/master/global-terrorism-index)
+***
 ### [Pendaki Everest](https://github.com/melysantoso/datagravis/tree/master/everest-viz)
 [![name](https://github.com/melysantoso/datagravis/blob/master/everest-viz/mt-everest-9.png)](https://github.com/melysantoso/datagravis/tree/master/everest-viz)
 ***
@@ -41,9 +44,6 @@ Klik pada gambar untuk menuju ke kode: <br>
 ***
 ### [Hidden Links Between Mental Disorder](https://github.com/melysantoso/datagravis/tree/master/hidden-link-mental-disorder)
 [![name](https://github.com/melysantoso/datagravis/blob/master/hidden-link-mental-disorder/hidden-link-mentdis1.png)](https://github.com/melysantoso/datagravis/tree/master/hidden-link-mental-disorder)
-***
-### [Alasan Masyarakat Indonesia Masih Pakai Masker](https://github.com/melysantoso/datagravis/tree/master/alasan-masih-pakai-masker)
-[![name](https://github.com/melysantoso/datagravis/blob/master/alasan-masih-pakai-masker/alasan_masker_1.png)](https://github.com/melysantoso/datagravis/tree/master/alasan-masih-pakai-masker)
 ***
 ### [Freedom in The World](https://github.com/melysantoso/datagravis/tree/master/freedom)
 [![name](https://github.com/melysantoso/datagravis/blob/master/freedom/freedom-5.png)](https://github.com/melysantoso/datagravis/tree/master/freedom)
@@ -82,6 +82,9 @@ Klik pada gambar untuk menuju ke kode: <br>
 ***
 ### [Konsumsi Produk Tembakau](https://github.com/melysantoso/datagravis/tree/master/tobaco-consumption)
 [![name](https://github.com/melysantoso/datagravis/blob/master/tobaco-consumption/smoking-tob.png)](https://github.com/melysantoso/datagravis/tree/master/tobaco-consumption)
+***
+### [Alasan Masyarakat Indonesia Masih Pakai Masker](https://github.com/melysantoso/datagravis/tree/master/alasan-masih-pakai-masker)
+[![name](https://github.com/melysantoso/datagravis/blob/master/alasan-masih-pakai-masker/alasan_masker_1.png)](https://github.com/melysantoso/datagravis/tree/master/alasan-masih-pakai-masker)
 ***
 ### [Alasan Belum Vaksin](https://github.com/melysantoso/datagravis/tree/master/belum%20vaksin)
 [![name](https://github.com/melysantoso/datagravis/blob/master/belum%20vaksin/alasan-belum-vaksin.png)](https://github.com/melysantoso/datagravis/tree/master/belum%20vaksin) 
