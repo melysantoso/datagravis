@@ -81,7 +81,7 @@ Klik pada gambar untuk menuju ke kode: <br>
 [![name](https://github.com/melysantoso/datagravis/blob/master/putus-sekolah/putus-sekolah-id.png)](https://github.com/melysantoso/datagravis/tree/master/putus-sekolah)
 ***
 ### [Konsumsi Produk Tembakau](https://github.com/melysantoso/datagravis/tree/master/tobaco-consumption)
-[![name](https://github.com/melysantoso/datagravis/blob/master/tobaco-consumption/smoking-tob.png)]
+[![name](https://github.com/melysantoso/datagravis/blob/master/tobaco-consumption/smoking-tob.png)](https://github.com/melysantoso/datagravis/tree/master/tobaco-consumption)
 ***
 ### [Alasan Belum Vaksin](https://github.com/melysantoso/datagravis/tree/master/belum%20vaksin)
 [![name](https://github.com/melysantoso/datagravis/blob/master/belum%20vaksin/alasan-belum-vaksin.png)](https://github.com/melysantoso/datagravis/tree/master/belum%20vaksin) 
