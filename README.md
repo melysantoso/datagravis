@@ -28,7 +28,7 @@ Klik pada gambar untuk menuju ke kode: <br>
 
 ***
 ### [Global Terrorism Index](https://github.com/melysantoso/datagravis/tree/master/global-terrorism-index)
-[![name](https://github.com/melysantoso/datagravis/blob/master/global-terrorism-index/global-terrorism-index%20(1).jpg)](https://github.com/melysantoso/datagravis/tree/master/global-terrorism-index)
+[![name](https://github.com/melysantoso/datagravis/blob/master/global-terrorism-index/global-terrorism-index%20(2).jpg)](https://github.com/melysantoso/datagravis/tree/master/global-terrorism-index)
 ***
 ### [Pendaki Everest](https://github.com/melysantoso/datagravis/tree/master/everest-viz)
 [![name](https://github.com/melysantoso/datagravis/blob/master/everest-viz/mt-everest-9.png)](https://github.com/melysantoso/datagravis/tree/master/everest-viz)
