@@ -36,6 +36,9 @@ Klik pada gambar untuk menuju ke kode: <br>
 ### [GDP ~ Population](https://github.com/melysantoso/datagravis/tree/master/population-gdp)
 [![name](https://github.com/melysantoso/datagravis/blob/master/population-gdp/population-gdp.png)](https://github.com/melysantoso/datagravis/tree/master/population-gdp)
 ***
+### [Debat Demokrat 2019](https://github.com/melysantoso/datagravis/tree/master/debat-democrat19)
+[![name](https://github.com/melysantoso/datagravis/blob/master/debat-democrat19/debat-demokrat-2019.png)](https://github.com/melysantoso/datagravis/tree/master/debat-democrat19)
+***
 ### [Konsumsi Protein Hewani](https://github.com/melysantoso/datagravis/tree/master/animal-protein-consumption)
 [![name](https://github.com/melysantoso/datagravis/blob/master/animal-protein-consumption/animal-protein-1.png)](https://github.com/melysantoso/datagravis/tree/master/animal-protein-consumption)
 ***
