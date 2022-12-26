@@ -1,1 +1,1 @@
-![name](https://github.com/melysantoso/datagravis/tree/master/alasan-masih-pakai-masker)
+![name](https://github.com/melysantoso/datagravis/blob/master/alasan-masih-pakai-masker/alasan_masker_1.png)
