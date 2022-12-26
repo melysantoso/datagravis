@@ -1,0 +1,1 @@
+![name](https://github.com/melysantoso/datagravis/blob/master/indopol/capres_indopol_2.png)
