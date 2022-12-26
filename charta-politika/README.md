@@ -1,1 +1,1 @@
-![name](https://github.com/melysantoso/datagravis/blob/master/debat-democrat19/debat-demokrat-2019.png)
+![name](https://github.com/melysantoso/datagravis/blob/master/charta-politika/image/elektabilitas-parpol-black.png)
